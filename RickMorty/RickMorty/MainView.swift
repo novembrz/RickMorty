@@ -28,7 +28,7 @@ struct MainView: View {
 
 //MARK: - Extensions
 
-extension String {
+private extension String {
     static let searchIcon = "magnifyingglass"
     static let favouriteIcon = "heart"
     static let searchTitle = "Search"

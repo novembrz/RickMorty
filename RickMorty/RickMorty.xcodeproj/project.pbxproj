@@ -14,6 +14,7 @@
 		875AFDE52A1CE0160019881C /* Color + Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 875AFDE42A1CE0160019881C /* Color + Extension.swift */; };
 		875AFDE72A1CE7240019881C /* FavouriteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 875AFDE62A1CE7240019881C /* FavouriteView.swift */; };
 		875AFDE92A1CE7360019881C /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 875AFDE82A1CE7350019881C /* MainView.swift */; };
+		875AFDEB2A1CEB790019881C /* SearchViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 875AFDEA2A1CEB790019881C /* SearchViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		875AFDE42A1CE0160019881C /* Color + Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color + Extension.swift"; sourceTree = "<group>"; };
 		875AFDE62A1CE7240019881C /* FavouriteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavouriteView.swift; sourceTree = "<group>"; };
 		875AFDE82A1CE7350019881C /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		875AFDEA2A1CEB790019881C /* SearchViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				875AFDD62A1CDECC0019881C /* RickMortyApp.swift */,
 				875AFDE82A1CE7350019881C /* MainView.swift */,
 				875AFDD82A1CDECC0019881C /* SearchView.swift */,
+				875AFDEA2A1CEB790019881C /* SearchViewModel.swift */,
 				875AFDE62A1CE7240019881C /* FavouriteView.swift */,
 				875AFDE42A1CE0160019881C /* Color + Extension.swift */,
 				875AFDDA2A1CDECD0019881C /* Assets.xcassets */,
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				875AFDEB2A1CEB790019881C /* SearchViewModel.swift in Sources */,
 				875AFDD92A1CDECC0019881C /* SearchView.swift in Sources */,
 				875AFDD72A1CDECC0019881C /* RickMortyApp.swift in Sources */,
 				875AFDE72A1CE7240019881C /* FavouriteView.swift in Sources */,
